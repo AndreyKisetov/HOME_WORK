@@ -105,7 +105,7 @@
                       <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur 
                       vel in deserunt aspernatur est reprehenderit sunt hic. Nulla 
                       tempora soluta ea et odio, unde doloremque repellendus iure, 
-                      iste.'</p>,
+                      iste.</p>',
                     'Web Developer / something.com' => 'Mar 2012 - Dec 2014
                       <p>Consectetur adipisicing elit. Praesentium magnam consectetur 
                       vel in deserunt aspernatur est reprehenderit sunt hic. Nulla 
